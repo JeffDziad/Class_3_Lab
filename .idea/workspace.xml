@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="afac6e85-a87d-48ec-8de3-793e3560da26" name="Default Changelist" comment="" />
+    <list default="true" id="afac6e85-a87d-48ec-8de3-793e3560da26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/newcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Class_3_Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Class_3_Lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,11 +38,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jQZEEHOcp05UWh3xZvt0mr48b2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +56,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class3-TripCalc" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,11 +67,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603738161559</updated>
-      <workItem from="1603738162780" duration="2067000" />
+      <workItem from="1603738162780" duration="5721000" />
+      <workItem from="1603912713631" duration="4508000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="307" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1603913917118">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="452" y="307" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603913917118" />
+    <state x="591" y="295" key="FileChooserDialogImpl" timestamp="1603853516654">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="591" y="295" key="FileChooserDialogImpl/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603853516654" />
+    <state x="680" y="438" key="Github.ShareDialog" timestamp="1603740387212">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="680" y="438" key="Github.ShareDialog/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603740387212" />
+    <state x="620" y="245" key="Github.UntrackedFilesDialog" timestamp="1603740395498">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="620" y="245" key="Github.UntrackedFilesDialog/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603740395498" />
+    <state x="3233" y="1455" width="1093" height="471" key="dock-window-1" timestamp="1603915955784">
+      <screen x="3240" y="0" width="1080" height="1920" />
+    </state>
+    <state x="3233" y="1455" width="1093" height="471" key="dock-window-1/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603915955784" />
+    <state x="3226" y="632" width="1193" height="1059" key="dock-window-2" timestamp="1603916646954">
+      <screen x="3240" y="0" width="1080" height="1920" />
+    </state>
+    <state x="3226" y="632" width="1193" height="1059" key="dock-window-2/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603916646954" />
+    <state x="474" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1603913932230">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="474" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1620.1080/3240.0.1080.1920@0.0.1620.1080" timestamp="1603913932230" />
   </component>
 </project>

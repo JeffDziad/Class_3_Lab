@@ -3,18 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <title>Class 3 Labs</title>
-    <script src="code.js"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-    <div style="width: 45%; float:left; height:150px; background:lightblue; margin:10px; text-align: center;">
-        <h1>Late Fee Calculator</h1>
-        <button onclick="lateFeeCalc()">Start Calculator</button>
-    </div>
-    <div style="width: 45%; float:right; height:150px; background:palegreen; margin:10px; text-align: center;">
+    <div id="left">
         <h1>Pizza Cost Splitter</h1>
-        <button onclick="pizzaSplitCalc()">Start Calculator</button>
+        <fieldset>
+            <label for="pizzaCount">Pizza Count: </label><input type="number" id="pizzaCount">
+            <label for="topCount">Toppings Count: </label><input type="number" id="topCount">
+            <label for="workCount"># of Coworkers: </label><input type="number" id="workCount">
+        </fieldset>
+        <button id="pizzaButton">Check Late Fees</button>
+        <p class="output" id="splitOutput"></p>
     </div>
-
+    <div id="right">
+        <h1>Late Fee Calculator</h1>
+        <fieldset>
+            <label for="bookCount"># of Books: </label><input type="number" id="bookCount">
+            <label for="DVDCount"># of DVDs: </label><input type="number" id="DVDCount">
+            <label for="dayCount"># of days late: </label><input type="number" id="dayCount">
+        </fieldset>
+        <button id="bookButton">Run Cost Splitter</button>
+        <p class="output" id="feeOutput"></p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="newcode.js"></script>
 </body>
 </html>

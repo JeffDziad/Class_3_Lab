@@ -1,0 +1,54 @@
+body
+{
+    background-color: dimgrey;
+}
+
+#left
+{
+    width: 45%;
+    float: left;
+    height: auto;
+    background: lightblue;
+    margin: 10px; text-align: center;
+    border: black solid 2px;
+}
+
+#right
+{
+    width: 45%;
+    float: right;
+    height: auto;
+    background: palegreen;
+    margin: 10px; text-align: center;
+    border: black solid 2px;
+}
+
+fieldset
+{
+    padding: 15px;
+    margin: 10px;
+}
+
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 125px;
+    text-align: left;
+    padding: 5px;
+}
+
+button
+{
+    margin: 10px;
+}
+
+input {
+    display: inline-block;
+    float: left;
+}
+
+.output
+{
+    display: none;
+}
